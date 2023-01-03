@@ -9,8 +9,8 @@ const Sidebar = () => {
     <Stack
       direction="row"
       sx={{
-        overFlowY: 'auto',
-        height: { sx: 'auto', md: '95%' },
+        overflowY: 'auto',
+        height: { sm: 'auto', md: '95%' },
         flexDirection: { md: 'column' }
       }}
     >
